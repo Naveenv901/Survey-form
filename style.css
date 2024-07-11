@@ -1,0 +1,41 @@
+.first{
+    border: solid 1px;
+    width: fit-content;
+    margin-left: 400px;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+span{
+    margin-left: 20px;
+}
+.mail{
+    margin-left: 20px;
+}
+.box{
+    margin-left: 20px;
+    width: 300px;
+}
+.buto{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+button{
+    background-color: orange;
+    width: 400px;
+}
+.c1{
+    margin-left: 102px;
+}
+.c2{
+    margin-left: 40px;
+}
+.checked{
+    color: orange;
+}
+td{
+    padding-left: 20px;
+}
